@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Category extends Model
 {
-    use NestableTrait;
+     use NestableTrait;
     /**
      * @var string
      */
